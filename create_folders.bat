@@ -4,7 +4,7 @@ set asset="ONCO"
 set study="ONCO-001"
 set timepoint="Final"
 
-cd D:\windows_commands
+cd /d C:\windows_commands
 
 mkdir "%asset%"
 cd "%asset%"
